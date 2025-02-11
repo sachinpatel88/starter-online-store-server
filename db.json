@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "id": "fitness-tracker-121",
+      "name": "Premium Fitness Tracker",
+      "description": "A sleek and lightweight fitness tracker with heart rate monitoring, sleep tracking, and activity insights.",
+      "amount": 99,
+      "image": "fitness-tracker.webp",
+      "currency": "SGD"
+    }
+  ],
+  "bookingIntents": []
+}
